@@ -1,0 +1,28 @@
+{
+  "name": "mry-links-from-md",
+  "version": "1.0.0",
+  "description": "A Nodejs plugin to obtain links and their descriptions from a markdown file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryfsc/mry-links-from-md.git"
+  },
+  "keywords": [
+    "links",
+    "markdown"
+  ],
+  "author": "Mary Francis S Christensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryfsc/mry-links-from-md/issues"
+  },
+  "homepage": "https://github.com/maryfsc/mry-links-from-md#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1"
+  }
+}
