@@ -23,6 +23,9 @@ And you can use it just as easily with Node.js:
 
 ## Roadmap
 
+Version 1.0.1
+* Removed minor bugs.
+
 Version 1.0.0
 * Returns an array of objects, each one with their links and urls.
 * The markdown file can have more than one link and url. 
