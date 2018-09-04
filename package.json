@@ -1,6 +1,6 @@
 {
   "name": "mry-links-from-md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Nodejs plugin to obtain links and their descriptions from a markdown file.",
   "main": "index.js",
   "scripts": {
