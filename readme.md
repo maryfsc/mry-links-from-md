@@ -23,7 +23,10 @@ And you can use it just as easily with Node.js:
 
 ## Roadmap
 
-Version 1.0.1
+Version 1.2.1 (coming soon)
+* Captures the url with dependent domains. 
+
+Version 1.0.2 (released)
 * Removed minor bugs.
 
 Version 1.0.0
